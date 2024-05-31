@@ -7,6 +7,8 @@
     <title>Vincent Morrison's Projects</title>
 </head>
 <body>
-    
+    <?php
+        include
+    ?>
 </body>
 </html>
