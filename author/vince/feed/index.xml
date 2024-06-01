@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vince &#8211; Vincent&#039;s Project Archive</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Take a look at life</description>
+	<lastBuildDate>Sat, 01 Jun 2024 03:29:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Built a PC</title>
+		<link>./../../../2024/05/31/built-a-pc/index.html</link>
+		
+		<dc:creator><![CDATA[Vince]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2024 03:29:59 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=13</guid>
+
+					<description><![CDATA[In the year of 2017, I decided to build my first computer. I started doing research online about the steps to build them from the ground up starting with the motherboard, CPU, RAM, GPU, etc. I thought the task of finding the parts was going to be a challenge for me but I discovered a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>In the year of 2017, I decided to build my first computer. I started doing research online about the steps to build them from the ground up starting with the motherboard, CPU, RAM, GPU, etc. I thought the task of finding the parts was going to be a challenge for me but I discovered a website called TigerDirect that sold bare bone kits that simplified the process. It was a mid-level kit at the time and I found many ways to make improvements to it. I included a CD drive, Blu-ray Drive, 4 TB of storage, and upgraded the GPU  once I realized that the one that came in the kit was a few years old and did not support many high end video games.</p>
+
+
+
+<h4 class="wp-block-heading">Wiki</h4>
+
+
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Motherboard" data-type="link" data-id="https://en.wikipedia.org/wiki/Motherboard">Motherboard</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Central_processing_unit" data-type="link" data-id="https://en.wikipedia.org/wiki/Central_processing_unit">CPU &#8211; Central Processing Unit</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Random-access_memory" data-type="link" data-id="https://en.wikipedia.org/wiki/Random-access_memory">RAM &#8211; Random Access Memory</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" data-type="link" data-id="https://en.wikipedia.org/wiki/Graphics_processing_unit">GPU &#8211; Graphic Processing Unit</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Compact_disc" data-type="link" data-id="https://en.wikipedia.org/wiki/Compact_disc">CD Drive &#8211; Compact Disc Drive</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Blu-ray" data-type="link" data-id="https://en.wikipedia.org/wiki/Blu-ray">Blu-Ray Drive</a></li>
+
+
+
+<li><a href="https://simple.wikipedia.org/wiki/Terabyte" data-type="link" data-id="https://simple.wikipedia.org/wiki/Terabyte">TB &#8211; Terabyte</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
